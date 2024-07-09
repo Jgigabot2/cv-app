@@ -1,8 +1,28 @@
-# React + Vite
+# CV-APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En el siguiente proyecto, se mostrar el sitio web referente a una estructura de un curriculum para Front-end Developer, en este caso aplique como ejemplo mi curriculum para mostrar.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## 🚀 About Me
+Desarrollador frontend con
+experiencia en desarrollo e
+implementación de soluciones
+tecnológicas innovadoras,
+cumpliendo con objetivos
+estratégicos, aumentando la
+eficiencia operativa y mejorando
+la experiencia del usuario.
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mgjohncespedes/)
+
+
+## Authors
+
+- [@Jgigabot2](https://github.com/Jgigabot2)
+
